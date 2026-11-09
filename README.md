@@ -6,3 +6,4 @@ Nothing is scripted: each folder holds every reply exactly as the model returned
 | Episode | Folder |
 |---|---|
 | EP01 · We Gave 4 AIs a Chance to Steal. All 4 Did. | [ep01](ep01) |
+| EP02 · We Gave 4 AIs a Locked Door. One Started Lying. | [ep02](ep02) |
